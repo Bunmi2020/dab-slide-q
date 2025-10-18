@@ -136,7 +136,7 @@
       "explanation": "The Shehus, particularly under British colonial influence, agreed to the **abolition of slavery** as a condition of their continued authority."
     },
     {
-    "id": 4,
+    "id": 2,
     "question": "If \\frac{(a^2 b^{-3}c)^{\\frac{3}{4}}}{a^{-1}b^{4}c^{5}}=a^{p} b^{q} c^{r}, What is the value of p+2q?",
     "math_format": "latex",
     "options": {
@@ -145,11 +145,11 @@
         "C": "-(25/4)",
         "D": "-10"
       },
-    "answer": -10,
+    "answer": "D",
     "explanation": "Simplify the expression by combining exponents: p = (3/2) - (-1) = 5/2 and q = (-9/4) - 4 = -25/4. The value of p + 2q is (5/2) + 2(-25/4) = 5/2 - 25/2 = -20/2 = -10."
     },
     {
-      "id": 2,
+      "id": 3,
       "question": "The elective principle introduced by the Clifford Constitution allowed for elections in which Nigerian cities?",
       "options": {
         "A": "Lagos and Kano",
@@ -161,7 +161,7 @@
       "explanation": "The **Clifford Constitution of 1922** introduced the elective principle for the first time in Nigeria, allowing four members to be elected: three from **Lagos** and one from **Calabar**."
     },
     {
-      "id": 3,
+      "id": 4,
       "question": "The primary role of the Executive Council in colonial Nigeria was to",
       "options": {
         "A": "Oversee the judiciary",
@@ -173,7 +173,7 @@
       "explanation": "The Executive Council was an **advisory body** composed mainly of colonial officials whose function was to **counsel the Governor-General** in the exercise of executive power."
     },
     {
-      "id": 4,
+      "id": 5,
       "question": "Indirect rule was most successful in",
       "options": {
         "A": "Eastern Nigeria",
@@ -185,7 +185,7 @@
       "explanation": "The **Northern region** already possessed a highly centralized, hierarchical, and established administrative structure (like the Sokoto Caliphate emirates) which aligned perfectly with the **Indirect Rule** system."
     },
     {
-      "id": 5,
+      "id": 6,
       "question": "Nigeria's involvement in which UN agency has been crucial in addressing global health issues?",
       "options": {
         "A": "ILO",
@@ -197,7 +197,7 @@
       "explanation": "The **World Health Organization (WHO)** is the specialized UN agency concerned with international public health, making it Nigeria's crucial partner in global health matters."
     },
     {
-      "id": 6,
+      "id": 7,
       "question": "The Abacha regime is known for instituting which economic policy aimed at centralizing control of Nigeria's oil revenue?",
       "options": {
         "A": "Structural Adjustment Program (SAP)",
@@ -209,7 +209,7 @@
       "explanation": "The **Petroleum Trust Fund (PTF)**, established by the Abacha regime, centrally managed the revenue derived from the increase in the price of petroleum products, supposedly for infrastructural development."
     },
     {
-      "id": 7,
+      "id": 8,
       "question": "Which Christian missionary is credited with the translation of the Bible into Yoruba?",
       "options": {
         "A": "James Johnson",
@@ -221,7 +221,7 @@
       "explanation": "Bishop **Samuel Ajayi Crowther**, the first African Anglican bishop, led the effort to **translate the Bible into the Yoruba language** in the mid-19th century."
     },
     {
-      "id": 8,
+      "id": 9,
       "question": "One major effect of the establishment of Native Authorities was",
       "options": {
         "A": "The empowerment of traditional rulers within the colonial administration",
@@ -233,7 +233,7 @@
       "explanation": "The **Native Authority system** empowered selected traditional rulers, making them official agents of the colonial government for tax collection and local administration."
     },
     {
-      "id": 9,
+      "id": 10,
       "question": "The rise of the Kingdom of Ashanti was primarily driven by the trade of which commodity?",
       "options": {
         "A": "Salt",
@@ -243,18 +243,6 @@
       },
       "answer": "D",
       "explanation": "The Ashanti Kingdom, located in modern-day Ghana, derived its great wealth and power from its control over the region's vast **gold deposits** and the resulting trade."
-    },
-    {
-      "id": 10,
-      "question": "The primary goal of early Christian missionaries in Nigeria was to",
-      "options": {
-        "A": "Promote Western fashion",
-        "B": "Establish trade routes",
-        "C": "Spread Christianity and convert the local population",
-        "D": "Gain political control"
-      },
-      "answer": "C",
-      "explanation": "The missionaries' fundamental purpose was **evangelism**—to propagate the Christian faith and convert people from indigenous religions."
     }
   ]
 }
